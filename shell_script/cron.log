@@ -134,3 +134,15 @@ From https://github.com/Prashanth6782/CICD_Dummies_HV
  * branch            main       -> FETCH_HEAD
 Already up to date.
 Deployment complete!
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Deployment complete!
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Deployment complete!
