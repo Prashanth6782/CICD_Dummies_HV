@@ -1,0 +1,60 @@
+New commit detected: 87bfb4988e7a1de743b7595b36014eada5b3af36
+Traceback (most recent call last):
+  File "/home/ubuntu/repo/pygit.py", line 40, in <module>
+    write_last_commit(latest_commit)
+  File "/home/ubuntu/repo/pygit.py", line 31, in write_last_commit
+    with open(commit_file, 'w') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/home/ubuntu/repo/last_commit.txt'
+New commit detected: 87bfb4988e7a1de743b7595b36014eada5b3af36
+Traceback (most recent call last):
+  File "/home/ubuntu/repo/pygit.py", line 40, in <module>
+    write_last_commit(latest_commit)
+  File "/home/ubuntu/repo/pygit.py", line 31, in write_last_commit
+    with open(commit_file, 'w') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/home/ubuntu/repo/last_commit.txt'
+New commit detected: 87bfb4988e7a1de743b7595b36014eada5b3af36
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
+No new commits.
